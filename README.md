@@ -1,1 +1,2 @@
 # hangman
+This is the game of Hangman created by May Abdelaziz, Mariam Abdelaziz, and Safiya Kamal in the UWMS Coding Class led by Mustafa Khan. If you don't already know how to play hangman, keep reading! The way you play hangman is the computer generates a word and you have to try to guess the letters in it. As you guess wrong letters, more parts of a stick figure are added. When the whole stick figure is complete, you lose the round.
